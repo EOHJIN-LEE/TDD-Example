@@ -2,7 +2,7 @@ using System.Collections;
 using NUnit.Framework;
 using UnityEngine.TestTools;
 
-public class DamageTestPlayModeTests
+public class PlayModeTests
 {
     [UnityTest]
     public IEnumerator モンスターはクリックされたらHPが10減る()
